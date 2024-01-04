@@ -1,2 +1,3 @@
-# ai-demo
-This project is dedicated to teaching the basics of forking and creating PRs.
+# This is now about ice cream
+
+Ice cream is perfect and I will fight you.
